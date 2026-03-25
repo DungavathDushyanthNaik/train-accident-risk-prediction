@@ -71,3 +71,9 @@ It uses a Random Forest model and provides real-time risk analysis through a Str
 ## Author
 Dushyanth Naik  
 M.Tech (ECE – Signal Processing)
+
+## Impact
+
+- Helps in early accident risk detection  
+- Supports safe speed decision-making  
+- Reduces human error in railway operations  
