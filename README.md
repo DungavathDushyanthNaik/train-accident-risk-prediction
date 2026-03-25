@@ -46,3 +46,28 @@ It uses a Random Forest model and provides real-time risk analysis through a Str
 ---
 
 ## Project Structure
+---
+## Output Screenshots
+
+### Dashboard
+![Dashboard](dashboard.png)
+
+### Graph
+![Graph](graph.png)
+
+### User inputs
+![User inputs](Userinputs.png)
+
+### Results
+![Results](results.png)
+
+## Future Improvements
+- Integrate real-time IoT sensor data  
+- Add GPS-based tracking  
+- Deploy as cloud-based system  
+
+---
+
+## Author
+Dushyanth Naik  
+M.Tech (ECE – Signal Processing)
